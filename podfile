@@ -1,0 +1,4 @@
+target 'sample' do
+	pod 'AFNetworking'
+	pod 'SDWebImage'
+end
